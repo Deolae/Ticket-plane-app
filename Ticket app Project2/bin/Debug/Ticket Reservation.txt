@@ -1,0 +1,16 @@
+Ticket ID: 1
+
+
+Flight info
+:::::::::::::::::::::::::::::::::::
+Plane take off time: 9:00AM
+From: Qatar, Doha
+To: Russia, Moscow
+No. Passengers: 3
+
+
+Personal info
+:::::::::::::::::::::::::::::::::::
+Full name: Osama Zreqat
+Email: Osamahzreqat2@gmail.com
+Phone number: 0788061862
